@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP scheduled readonly\n"
+"POT-Creation-Date: 2015-12-04 17:24+0100\n"
+"PO-Revision-Date: 2015-12-04 17:25+0100\n"
+"Last-Translator: Bastien Ho <bastienho@urbancube.fr>\n"
+"Language-Team: bastho <b@stienho.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: ../readonly.php:56 ../readonly.php:57
+msgid "Read Only"
+msgstr "Lecture Seule"
+
+#: ../readonly.php:105
+#, php-format
+msgid ""
+"We are %s,\n"
+"sites are on read-only mode from %s to %s."
+msgstr ""
+"Nous sommes le %s,\n"
+"Les sites sont en mode lecture seule du %s au %s."
+
+#: ../readonly.php:139
+msgid "Security error"
+msgstr "Erreur de sécurité"
+
+#: ../readonly.php:155
+msgid "Scheduled Read only"
+msgstr "Lecture seule programmée"
+
+#: ../readonly.php:157
+msgid "Read only setting has been registered !"
+msgstr "Le réglage de lecture seule a été enregistré !"
+
+#: ../readonly.php:160
+msgid "Read only setting was not saved..."
+msgstr "Le réglage de lecture seule n'a pas été sauvegardé..."
+
+#: ../readonly.php:163
+msgid "You can not edit this setting."
+msgstr "Vous ne pouvez pas éditer ce réglage."
+
+#: ../readonly.php:172
+msgid "Read-only:"
+msgstr "Lecture seule :"
+
+#: ../readonly.php:179
+msgid "From:"
+msgstr "Du :"
+
+#: ../readonly.php:186
+msgid "To:"
+msgstr "Au : "
+
+#: ../readonly.php:196
+msgid "Who can write ?"
+msgstr "Qui peut écrire ?"
+
+#: ../readonly.php:220
+msgid "save"
+msgstr "Sauvegarder"
